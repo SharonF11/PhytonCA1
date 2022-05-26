@@ -1,2 +1,2 @@
-# PhytonCA1
+# SoftwareEngineeringCA
 Ca 1 Python with Sugeeth Arivoli and Chinedu 
