@@ -1,2 +1,2 @@
 # SoftwareEngineeringCA
-Ca 1 Python with Sugeeth Arivoli and Chinedu 
+Ca 1 Python with Sugeeth Arivoli
